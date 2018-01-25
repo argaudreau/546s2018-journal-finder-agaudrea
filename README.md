@@ -1,6 +1,8 @@
 # Journal Finder
 Created By: Adam Gaudreau
+
 Email: adam_gaudreau@student.uml.edu
+
 CS Website: www.cs.uml.edu/~agaudrea/
 
 ## About this repo
