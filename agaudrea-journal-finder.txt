@@ -1,0 +1,52 @@
+Journal-Finder Assignment
+Adam Gaudreau
+Due: 31 Jan 2018
+
+************************************************
+*****             FROM ACM TOG             *****
+************************************************
+@article{Huang:2018:AMV:3151031.3158353,
+ author = {Huang, Hui and Xie, Ke and Ma, Lin and Lischinski, Dani and Gong, Minglun and Tong, Xin and Cohen-Or, Daniel},
+ title = {Appearance Modeling via Proxy-to-Image Alignment},
+ journal = {ACM Trans. Graph.},
+ issue_date = {January 2018},
+ volume = {37},
+ number = {1},
+ month = jan,
+ year = {2018},
+ issn = {0730-0301},
+ pages = {10:1--10:15},
+ articleno = {10},
+ numpages = {15},
+ url = {http://doi.acm.org/10.1145/3158353},
+ doi = {10.1145/3158353},
+ acmid = {3158353},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Appearance modeling, appearance transfer, detail extraction, intrinsic image decomposition, shape alignment, shape deformation, texture synthesis},
+}
+
+************************************************
+*****             FROM ACM TOG             *****
+*****  Closest to my birthday (June 2018)  *****
+************************************************
+@article{Pirk:2017:UEO:3087678.3083725,
+ author = {Pirk, S\"{o}ren and Krs, Vojtech and Hu, Kaimo and Rajasekaran, Suren Deepak and Kang, Hao and Yoshiyasu, Yusuke and Benes, Bedrich and Guibas, Leonidas J.},
+ title = {Understanding and Exploiting Object Interaction Landscapes},
+ journal = {ACM Trans. Graph.},
+ issue_date = {June 2017},
+ volume = {36},
+ number = {3},
+ month = jun,
+ year = {2017},
+ issn = {0730-0301},
+ pages = {31:1--31:14},
+ articleno = {31},
+ numpages = {14},
+ url = {http://doi.acm.org/10.1145/3083725},
+ doi = {10.1145/3083725},
+ acmid = {3083725},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Object functionality analysis, affordance analysis, geometric modeling, object semantics, physical interactions, shape analysis},
+}
