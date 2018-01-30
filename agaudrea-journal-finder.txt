@@ -26,10 +26,6 @@ Due: 31 Jan 2018
  keywords = {Appearance modeling, appearance transfer, detail extraction, intrinsic image decomposition, shape alignment, shape deformation, texture synthesis},
 }
 
-************************************************
-*****             FROM ACM TOG             *****
-*****  Closest to my birthday (June 2018)  *****
-************************************************
 @article{Pirk:2017:UEO:3087678.3083725,
  author = {Pirk, S\"{o}ren and Krs, Vojtech and Hu, Kaimo and Rajasekaran, Suren Deepak and Kang, Hao and Yoshiyasu, Yusuke and Benes, Bedrich and Guibas, Leonidas J.},
  title = {Understanding and Exploiting Object Interaction Landscapes},
@@ -49,4 +45,194 @@ Due: 31 Jan 2018
  publisher = {ACM},
  address = {New York, NY, USA},
  keywords = {Object functionality analysis, affordance analysis, geometric modeling, object semantics, physical interactions, shape analysis},
+}
+
+
+************************************************
+*****            FROM IEEE TVCG            *****
+************************************************
+@ARTICLE{7833028,
+author = {M. Krichenbauer and G. Yamamoto and T. Taketom and C. Sandor and H. Kato},
+journal = {IEEE Transactions on Visualization & Computer Graphics},
+title = {Augmented Reality versus Virtual Reality for 3D Object Manipulation},
+year = {2018},
+volume = {24},
+number = {2},
+pages = {1038-1048},
+keywords={Three-dimensional displays;Performance evaluation;Mice;Resists;Visualization;Training;Augmented reality},
+doi = {10.1109/TVCG.2017.2658570},
+url = {doi.ieeecomputersociety.org/10.1109/TVCG.2017.2658570},
+ISSN = {1077-2626},
+month={Feb.}
+}
+
+@ARTICLE{7864462,
+author = {F. Beck and D. Weiskopf},
+journal = {IEEE Transactions on Visualization & Computer Graphics},
+title = {Word-Sized Graphics for Scientific Texts},
+year = {2017},
+volume = {23},
+number = {6},
+pages = {1576-1587},
+keywords={Data visualization;Visualization;Bars;Encoding;Bibliographies;Ecology},
+doi = {10.1109/TVCG.2017.2674958},
+url = {doi.ieeecomputersociety.org/10.1109/TVCG.2017.2674958},
+ISSN = {1077-2626},
+month={June}
+}
+
+
+************************************************
+*****            FROM IEEE CG&A            *****
+************************************************
+@ARTICLE{8103318,
+author = {G. Singh},
+journal = {IEEE Computer Graphics and Applications},
+title = {Control and Release in Complex Relationships},
+year = {2017},
+volume = {37},
+number = {6},
+pages = {3-4},
+keywords={Art;Visualization;Image color analysis;Encoding;Programming;Fractals},
+doi = {10.1109/MCG.2017.4031065},
+url = {doi.ieeecomputersociety.org/10.1109/MCG.2017.4031065},
+ISSN = {0272-1716},
+month={November/December}
+}
+
+@ARTICLE{7912234,
+author = {G. Singh},
+journal = {IEEE Computer Graphics and Applications},
+title = {Stories in the Data},
+year = {2017},
+volume = {37},
+number = {3},
+pages = {4-5},
+keywords={computer graphics;digital art;data-driven comics;visualization;data analysis},
+doi = {10.1109/MCG.2017.43},
+url = {doi.ieeecomputersociety.org/10.1109/MCG.2017.43},
+ISSN = {0272-1716},
+month={May-June}
+}
+
+
+************************************************
+*****          FROM ACM SIGGRAPH           *****
+************************************************
+@Article{2016:2897824,
+ journal = {ACM Trans. Graph.},
+ year = {2016},
+ issn = {0730-0301},
+ volume = {35},
+ number = {4},
+ issue_date = {July 2016},
+ issue_description = {Proceedings of ACM SIGGRAPH 2016},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+key = {{$\!\!$}} ,
+} 
+// This was closest to my birthday
+@Article{2016:2897824,
+ journal = {ACM Trans. Graph.},
+ year = {2016},
+ issn = {0730-0301},
+ volume = {35},
+ number = {4},
+ issue_date = {July 2016},
+ issue_description = {Proceedings of ACM SIGGRAPH 2016},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+key = {{$\!\!$}} ,
+} 
+
+
+************************************************
+*****               FROM C&G               *****
+************************************************
+@article{LEE20181,
+title = "Heuristic misfit reduction: A programmable approach for 3D garment fit customization",
+journal = "Computers & Graphics",
+volume = "71",
+pages = "1 - 13",
+year = "2018",
+issn = "0097-8493",
+doi = "https://doi.org/10.1016/j.cag.2017.10.004",
+url = "http://www.sciencedirect.com/science/article/pii/S009784931730170X",
+author = "Wonseop Lee and Hyeong-Seok Ko",
+keywords = "Clothing simulation, Fit customization, Pattern-making, Computer animation"
+}
+
+@article{MONTESDEOCA201760,
+title = "Art-directed watercolor stylization of 3D animations in real-time",
+journal = "Computers & Graphics",
+volume = "65",
+pages = "60 - 72",
+year = "2017",
+issn = "0097-8493",
+doi = "https://doi.org/10.1016/j.cag.2017.03.002",
+url = "http://www.sciencedirect.com/science/article/pii/S0097849317300316",
+author = "S.E. Montesdeoca and H.S. Seah and H.-M. Rall and D. Benvenuti",
+keywords = "Watercolor, NPR, Expressive rendering, Real-time, Direct stylization, Object-space"
+}
+
+
+************************************************
+*****               FROM CGF              *****
+************************************************
+@article {CGF:CGF12990,
+author = {Wang, Z. and Esturo, J. Martinez and Seidel, H.-P. and Weinkauf, T.},
+title = {Stream Line–Based Pattern Search in Flows},
+journal = {Computer Graphics Forum},
+volume = {36},
+number = {8},
+issn = {1467-8659},
+url = {http://dx.doi.org/10.1111/cgf.12990},
+doi = {10.1111/cgf.12990},
+pages = {7--18},
+keywords = {visualization, pattern search, stream lines, Categories and Subject Descriptors (according to ACM CCS): I.3.3 [Computer Graphics]: Picture/Image Generation–Line and curve generation},
+year = {2017},
+}
+
+@article {CGF:CGF13156,
+author = {Yao, Guilin and Zhao, Zhijie and Liu, Shaohui},
+title = {A Comprehensive Survey on Sampling-Based Image Matting},
+journal = {Computer Graphics Forum},
+volume = {36},
+number = {8},
+issn = {1467-8659},
+url = {http://dx.doi.org/10.1111/cgf.13156},
+doi = {10.1111/cgf.13156},
+pages = {613--628},
+keywords = {matting and compositing, image segmentation, image and video processing, I.4.6 [Image Processing and Computer Vision]: Segmentation—Pixel classification},
+year = {2017},
+}
+
+
+************************************************
+*****         FROM VISUAL COMPUTER         *****
+************************************************
+@Article{Saini2018,
+author="Saini, Rajkumar
+and Roy, Partha Pratim@Article{Gai2017,
+author="Gai, Shan",
+title="Color image denoising via monogenic matrix-based sparse representation",
+journal="The Visual Computer",
+year="2017",
+month="Nov",
+day="15",
+issn="1432-2315",
+doi="10.1007/s00371-017-1456-8",
+url="https://doi.org/10.1007/s00371-017-1456-8"
+}
+
+@Article{Gai2017,
+author="Gai, Shan",
+title="Color image denoising via monogenic matrix-based sparse representation",
+journal="The Visual Computer",
+year="2017",
+month="Nov",
+day="15",
+issn="1432-2315",
+doi="10.1007/s00371-017-1456-8",
+url="https://doi.org/10.1007/s00371-017-1456-8"
 }
